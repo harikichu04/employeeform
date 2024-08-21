@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/employeeform/static/css/main.a39796da.css",
+    "main.js": "/employeeform/static/js/main.1b42bc44.js",
+    "index.html": "/employeeform/index.html",
+    "main.a39796da.css.map": "/employeeform/static/css/main.a39796da.css.map",
+    "main.1b42bc44.js.map": "/employeeform/static/js/main.1b42bc44.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a39796da.css",
+    "static/js/main.1b42bc44.js"
+  ]
+}
